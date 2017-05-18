@@ -1,0 +1,32 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table threedsinteractive_mtlesale_salutation'
+    - builder_table_create_threedsinteractive_mtlesale_salutation.php
+1.0.3:
+    - 'Created table threedsinteractive_mtlesale_nationality'
+    - builder_table_create_threedsinteractive_mtlesale_nationality.php
+1.0.4:
+    - 'Updated table threedsinteractive_mtlesale_salutation'
+    - builder_table_update_threedsinteractive_mtlesale_salutation.php
+1.0.5:
+    - 'Created table threedsinteractive_mtlesale_jobs'
+    - builder_table_create_threedsinteractive_mtlesale_jobs.php
+1.0.6:
+    - 'Updated table threedsinteractive_mtlesale_jobs'
+    - builder_table_update_threedsinteractive_mtlesale_jobs.php
+1.0.7:
+    - 'Created table threedsinteractive_mtlesale_provinces'
+    - builder_table_create_threedsinteractive_mtlesale_provinces.php
+1.0.8:
+    - 'Created table threedsinteractive_mtlesale_districts'
+    - builder_table_create_threedsinteractive_mtlesale_districts.php
+1.0.9:
+    - 'Created table threedsinteractive_mtlesale_status'
+    - builder_table_create_threedsinteractive_mtlesale_status.php
+1.0.10:
+    - 'Created table threedsinteractive_mtlesale_members'
+    - builder_table_create_threedsinteractive_mtlesale_members.php
+1.0.11:
+    - 'Updated table threedsinteractive_mtlesale_members'
+    - builder_table_update_threedsinteractive_mtlesale_members.php

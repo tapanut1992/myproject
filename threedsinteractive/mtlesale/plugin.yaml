@@ -1,0 +1,6 @@
+plugin:
+    name: 'threedsinteractive.mtlesale::lang.plugin.name'
+    description: 'threedsinteractive.mtlesale::lang.plugin.description'
+    author: '3DS Interactive'
+    icon: oc-icon-adjust
+    homepage: ''
